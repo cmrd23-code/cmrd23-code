@@ -1,4 +1,4 @@
-## Hi there 👋
+## cmrd23-code | Technical Trainer & Curriculum Architect 👋
 
 <!--
 **cmrd23-code/cmrd23-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
